@@ -40,7 +40,7 @@ const Pricing = () => {
   return (
     <div className="mt-20">
       <h2 className="text-3xl sm:text-5xl lg:text-6xl text-center my-8 tracking-wider">
-        Pricing
+        Our Pricing <span className="bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text">Plans</span>
       </h2>
 
       <div className="flex flex-wrap">
