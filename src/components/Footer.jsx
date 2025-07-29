@@ -43,7 +43,7 @@ const Footer = () => {
         </div>
 
         <div>
-          <h3 className="text-md font-semibold mb-4">Platfomrs</h3>
+          <h3 className="text-md font-semibold mb-4">Platforms</h3>
           <ul className="space-y-3">
             {platformLinks.map((platform) => (
               <li key={platform.id}>
